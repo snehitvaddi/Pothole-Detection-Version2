@@ -21,4 +21,5 @@ Learn how to build a tensorflow model on Techable Machine and then run it on flu
 
 ### Created & Maintained By
 
-[Sanskar Tiwari](https://github.com/theindianappguy) ([@snehitvaddi](https://github.com/snehitvaddi)) 
+[Sanskar Tiwari](https://github.com/theindianappguy) 
+[@snehitvaddi](https://github.com/snehitvaddi)
