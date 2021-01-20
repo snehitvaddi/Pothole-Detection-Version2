@@ -1,13 +1,10 @@
 
-![FLutter Tensor Flow Tutorial](https://user-images.githubusercontent.com/55942632/73233781-926d3680-41ad-11ea-87ff-fdf7301f2cd2.png)
-
-# Ml With Flutter
+# Pothole Detection and Alerting system APP using Flutter
 
 Learn how to build a tensorflow model on Techable Machine and then run it on flutter app.
 * [Youtube Tutorial](https://www.youtube.com/watch?v=-5kUv47xKy0)
 
 ## Show Support
-* [Author LinkedIn](https://www.linkedin.com/in/lamsanskar/) 
 * [My LinkedIn](https://www.linkedin.com/in/snehitvaddi/)
 
 ### Don't forget to star ⭐ the repo 😉, it's FREE.
@@ -21,5 +18,4 @@ Learn how to build a tensorflow model on Techable Machine and then run it on flu
 
 ### Created & Maintained By
 
-[Sanskar Tiwari](https://github.com/theindianappguy) 
-[@snehitvaddi](https://github.com/snehitvaddi)
+[@Sanskar Tiwari](https://github.com/theindianappguy), [@snehitvaddi](https://github.com/snehitvaddi)
