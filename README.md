@@ -4,8 +4,8 @@
 Learn how to build a tensorflow model on Techable Machine and then run it on flutter app.
 * [Youtube Tutorial](https://www.youtube.com/watch?v=-5kUv47xKy0)
 
-## Show Support
-* [My LinkedIn](https://www.linkedin.com/in/snehitvaddi/)
+## Let's Connect
+* 🤝 LinkedIn: [Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)
 
 ### Don't forget to star ⭐ the repo 😉, it's FREE.
 
